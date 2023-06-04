@@ -18,6 +18,9 @@ Complete all-in-one HTML tutorial by Dave Gray.
 		- ```<h1>```, ```h2>```, etc. (headings)
 		- ```<hr>``` (horizontal rule)
 		- ```<br>``` (single line break)
+		- ```<ol>``` (ordered list)
+		- ```<ul>``` (unordered list)
+		- ```<dl>``` (description list)
 	- inline level
 		- ```<em>``` (emphasize)
 		- ```<strong>```
