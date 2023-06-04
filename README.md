@@ -2,6 +2,13 @@
 
 Complete all-in-one HTML tutorial by Dave Gray.  
 
+## Lessons
+
+1. Introduction
+2. Head Element
+3. Text Basics
+4. List Types
+
 ## Links
 
 - [YouTube Video](https://youtu.be/n4R2E7O-Ngo)
