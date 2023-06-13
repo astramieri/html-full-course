@@ -8,6 +8,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 2. Head Element
 3. Text Basics
 4. List Types
+5. Links
 
 ## Links
 
@@ -32,6 +33,10 @@ Complete all-in-one HTML tutorial by Dave Gray.
 		- ```<em>``` (emphasize)
 		- ```<strong>```
 		- ```<abbr>``` (abbreviation)
+		- ```<a>``` (anchor)
+	- semantic element
+		- ```<section>```
+		- ```<nav>``` (navigation)
 	- entities
 		- used to display reserved characters
 		- begins with an ampersand (&) and ends with a semicolon (;)
