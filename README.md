@@ -10,11 +10,6 @@ Complete all-in-one HTML tutorial by Dave Gray.
 4. List Types
 5. Links
 
-## Links
-
-- [YouTube Video](https://youtu.be/n4R2E7O-Ngo)
-- [Markup Validation Service](https://validator.w3.org/)
-
 ## Main Topics
 
 - ```<head>``` element
@@ -43,3 +38,8 @@ Complete all-in-one HTML tutorial by Dave Gray.
 		- examples:
 			- ```&nbsp;``` (space)
 - white space collapse
+
+## Links
+
+- [YouTube Video](https://youtu.be/n4R2E7O-Ngo)
+- [Markup Validation Service](https://validator.w3.org/)
