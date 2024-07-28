@@ -12,7 +12,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 
 ## Main Topics
 
-- ```<html>```
+- ```<html>``` (lang)
 - ```<head>```
 	- ```<meta>``` (charset, author, description, viewport)
 	- ```<link>``` (icon, stylesheet)
@@ -44,4 +44,4 @@ Complete all-in-one HTML tutorial by Dave Gray.
 
 - [YouTube Video](https://youtu.be/mJgBOIoGihA)
 - [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/)
-- [Markup Validation Service](https://validator.w3.org/)
+- [Markup Validation Service (W3C)](https://validator.w3.org/)
