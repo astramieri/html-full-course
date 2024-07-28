@@ -12,11 +12,12 @@ Complete all-in-one HTML tutorial by Dave Gray.
 
 ## Main Topics
 
-- ```<head>``` element
+- ```<html>```
+- ```<head>```
 	- ```<meta>``` (charset, author, description, viewport)
 	- ```<link>``` (icon, stylesheet)
 	- ```<title>```
-- ```<body>``` element
+- ```<body>```
 	- block level (start on new line with space around it)
 		- ```<h1>```, ```h2>```, etc. (headings)
 		- ```<hr>``` (horizontal rule)
@@ -41,5 +42,6 @@ Complete all-in-one HTML tutorial by Dave Gray.
 
 ## Links
 
-- [YouTube Video](https://youtu.be/n4R2E7O-Ngo)
+- [YouTube Video](https://youtu.be/mJgBOIoGihA)
+- [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/)
 - [Markup Validation Service](https://validator.w3.org/)
