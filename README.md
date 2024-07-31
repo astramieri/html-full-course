@@ -12,10 +12,10 @@ Complete all-in-one HTML tutorial by Dave Gray.
 
 ## Main Topics
 
-- ```<html>``` (lang)
+- ```<html>```
 - ```<head>```
-	- ```<meta>``` (charset, author, description, viewport)
-	- ```<link>``` (icon, stylesheet)
+	- ```<meta>```
+	- ```<link>```
 	- ```<title>```
 - ```<body>```
 	- white space collapsing
@@ -35,16 +35,17 @@ Complete all-in-one HTML tutorial by Dave Gray.
 			- ```<strong>``` (strong importance)
 			- ```<abbr>``` (abbreviation)
 			- ```<a>``` (anchor)
+	- semantic elements
+		- they are used to define different parts of the page
+		- examples:
+			- ```<section>``` 
+			- ```<nav>``` (navigation)
 	- entities
 		- they are used to display reserved characters
 		- they begin with an ampersand (&) and ends with a semicolon (;)
 		- examples:
 			- ```&nbsp;``` (space)
 			- ```&copy;``` (copyright)
-	- semantic element
-		- examples:
-			- ```<section>```
-			- ```<nav>``` (navigation)
 
 
 
