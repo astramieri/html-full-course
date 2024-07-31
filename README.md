@@ -18,27 +18,35 @@ Complete all-in-one HTML tutorial by Dave Gray.
 	- ```<link>``` (icon, stylesheet)
 	- ```<title>```
 - ```<body>```
-	- block level (start on new line with space around it)
-		- ```<h1>```, ```h2>```, etc. (headings)
-		- ```<hr>``` (horizontal rule)
-		- ```<br>``` (single line break)
-		- ```<ol>``` (ordered list)
-		- ```<ul>``` (unordered list)
-		- ```<dl>``` (description list)
-	- inline level
-		- ```<em>``` (emphasize)
-		- ```<strong>```
-		- ```<abbr>``` (abbreviation)
-		- ```<a>``` (anchor)
-	- semantic element
-		- ```<section>```
-		- ```<nav>``` (navigation)
+	- white space collapsing
+	- block level elements
+		- they start on new line with space around it
+		- examples:
+			- ```<h1>``` (headings)
+			- ```<hr>``` (horizontal rule)
+			- ```<br>``` (line break)
+			- ```<ol>``` (ordered list)
+			- ```<ul>``` (unordered list)
+			- ```<dl>``` (description list)
+	- inline level elements 
+		- they do not create a break in the line or extra space around it
+		- examples:
+			- ```<em>``` (emphasize)
+			- ```<strong>``` (strong importance)
+			- ```<abbr>``` (abbreviation)
+			- ```<a>``` (anchor)
 	- entities
-		- used to display reserved characters
-		- begins with an ampersand (&) and ends with a semicolon (;)
+		- they are used to display reserved characters
+		- they begin with an ampersand (&) and ends with a semicolon (;)
 		- examples:
 			- ```&nbsp;``` (space)
-- white space collapse
+			- ```&copy;``` (copyright)
+	- semantic element
+		- examples:
+			- ```<section>```
+			- ```<nav>``` (navigation)
+
+
 
 ## Links
 
