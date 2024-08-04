@@ -26,8 +26,12 @@ Complete all-in-one HTML tutorial by Dave Gray.
 			- ```<hr>``` (horizontal rule)
 			- ```<br>``` (line break)
 			- ```<ol>``` (ordered list)
+				- ```<li>``` (list element)
 			- ```<ul>``` (unordered list)
+				- ```<li>``` (list element)
 			- ```<dl>``` (description list)
+				- ```<dt>``` (description term)
+				- ```<dd>``` (description detail)
 	- inline level elements 
 		- they do not create a break in the line or extra space around it
 		- examples:
