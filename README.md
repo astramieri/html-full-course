@@ -39,10 +39,13 @@ Complete all-in-one HTML tutorial by Dave Gray.
 			- ```<strong>``` (strong importance)
 			- ```<abbr>``` (abbreviation)
 			- ```<a>``` (anchor)
+				- absolute references
+				- relative references (same domain)
+				- internal references (same page)
 	- semantic elements
 		- they are used to define different parts of the page
 		- examples:
-			- ```<section>``` 
+			- ```<section>``` (section)
 			- ```<nav>``` (navigation)
 	- entities
 		- they are used to display reserved characters
