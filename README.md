@@ -9,6 +9,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 3. Text Basics
 4. List Types
 5. Links
+6. Images
 
 ## Main Topics
 
@@ -19,7 +20,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 	- ```<title>```
 - ```<body>```
 	- white space collapsing
-	- block level elements
+	- block elements
 		- they start on new line with space around it
 		- examples:
 			- ```<h1>``` (headings)
@@ -32,7 +33,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 			- ```<dl>``` (description list)
 				- ```<dt>``` (description term)
 				- ```<dd>``` (description detail)
-	- inline level elements 
+	- inline elements 
 		- they do not create a break in the line or extra space around it
 		- examples:
 			- ```<em>``` (emphasize)
@@ -47,14 +48,18 @@ Complete all-in-one HTML tutorial by Dave Gray.
 		- examples:
 			- ```<section>``` (section)
 			- ```<nav>``` (navigation)
+	- other elements
+		- examples:
+			- ```<img>``` (image)
+			- ```<figure>``` (figure) 
+			- ```<figcaption>``` (figure caption) 
+			- ```<code>``` (figure caption) 
 	- entities
 		- they are used to display reserved characters
 		- they begin with an ampersand (&) and ends with a semicolon (;)
 		- examples:
 			- ```&nbsp;``` (space)
 			- ```&copy;``` (copyright)
-
-
 
 ## Links
 
