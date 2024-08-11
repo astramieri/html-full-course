@@ -35,11 +35,15 @@ Complete all-in-one HTML tutorial by Dave Gray.
 			- ```<dt>``` (description term)
 		- ```<em>``` (emphasize)
 		- ```<form>```
+			- ```<button>``` (data list)
+			- ```<datalist>``` (data list)
+			- ```<fieldset>``` (field set)
 			- ```<input>```
 			- ```<label>```
+			- ```<legend>``` 
+			- ```<optgroup>``` (option group)
+			- ```<option>```
 			- ```<select>```
-				- ```<optgroup>``` (option group)
-				- ```<option>```
 		- ```<h1>``` (headings)
 		- ```<hr>``` (horizontal rule)
 		- ```<img>``` (image)
