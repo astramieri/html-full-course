@@ -12,6 +12,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 6. Images
 7. Semantic Tags
 8. Tables
+9. Forms & Inputs
 
 ## Main Tags
 
@@ -30,9 +31,15 @@ Complete all-in-one HTML tutorial by Dave Gray.
 		- ```<code>``` (code block) 
 		- ```<div>``` (divider) 
 		- ```<dl>``` (description list)
-			- ```<dt>``` (description term)
 			- ```<dd>``` (description detail)
+			- ```<dt>``` (description term)
 		- ```<em>``` (emphasize)
+		- ```<form>```
+			- ```<input>```
+			- ```<label>```
+			- ```<select>```
+				- ```<optgroup>``` (option group)
+				- ```<option>```
 		- ```<h1>``` (headings)
 		- ```<hr>``` (horizontal rule)
 		- ```<img>``` (image)
@@ -42,8 +49,8 @@ Complete all-in-one HTML tutorial by Dave Gray.
 		- ```<strong>```
 		- ```<table>```
 			- ```<tr>``` (table row)
-			- ```<th>``` (table heading)
-			- ```<td>``` (table data)
+				- ```<td>``` (table data)
+				- ```<th>``` (table heading)
 		- ```<ul>``` (unordered list)
 			- ```<li>``` (list element)
 
