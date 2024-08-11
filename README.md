@@ -11,6 +11,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 5. Links
 6. Images
 7. Semantic Tags
+8. Tables
 
 ## Main Tags
 
@@ -39,6 +40,10 @@ Complete all-in-one HTML tutorial by Dave Gray.
 			- ```<li>``` (list element)
 		- ```<span>```
 		- ```<strong>```
+		- ```<table>```
+			- ```<tr>``` (table row)
+			- ```<th>``` (table heading)
+			- ```<td>``` (table data)
 		- ```<ul>``` (unordered list)
 			- ```<li>``` (list element)
 
@@ -46,6 +51,7 @@ Complete all-in-one HTML tutorial by Dave Gray.
 
 - ```<article>```
 - ```<aside>```
+- ```<caption>```
 - ```<details>```
 - ```<header>```
 - ```<figcaption>``` (figure caption)
@@ -56,6 +62,9 @@ Complete all-in-one HTML tutorial by Dave Gray.
 - ```<nav>``` (navigation)
 - ```<section>```
 - ```<summary>```
+- ```<tbody>``` (table body)
+- ```<tfoot>``` (table footer)
+- ```<thead>``` (table header)
 - ```<time>```
 
 ## Notes
