@@ -4,15 +4,16 @@ Complete all-in-one HTML tutorial by Dave Gray.
 
 ## Lessons
 
-1. Introduction
-2. Head Element
-3. Text Basics
-4. List Types
-5. Links
-6. Images
-7. Semantic Tags
-8. Tables
-9. Forms & Inputs
+01. Introduction
+02. Head Element
+03. Text Basics
+04. List Types
+05. Links
+06. Images
+07. Semantic Tags
+08. Tables
+09. Forms & Inputs
+10. HTML Project
 
 ## Main Tags
 
